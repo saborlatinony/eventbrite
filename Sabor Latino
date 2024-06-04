@@ -1,1 +1,15 @@
-
+HTTP 404 Not Found
+Pragma: no-cache
+Access-Control-Max-Age: 600
+Expires: 0
+Vary: Accept
+Allow: GET, POST, OPTIONS
+Cache-Control: no-cache, no-store, must-revalidate, max-age=0
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: Authorization, Content-Type, Eventbrite-API-Waypoint-Token, Eventbrite-API-Deprecated-Features
+Content-Type: text/html; charset=utf-8
+{
+    "status_code": 404,
+    "error_description": "The path you requested does not exist.",
+    "error": "NOT_FOUND"
+}
