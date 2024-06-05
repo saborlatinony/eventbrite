@@ -1,10 +1,10 @@
 {
   "events": [
     {
-      "id":"913002473977"
+      "id":"913002473977",
       "title": "Example Event",
       "date": "2024-06-01",
-      "image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F776010859%2F280240115497%2F1%2Foriginal.20240525-062106?"
+      "image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F776010859%2F280240115497%2F1%2Foriginal.20240525-062106?",
       "location": "New York, NY",
       "description": "Description of the event",
       "link": "https://www.eventbrite.com/e/example-event-123456789"
