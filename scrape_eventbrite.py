@@ -8,15 +8,19 @@ url = "https://www.eventbrite.com/o/sabor-latino-18086879057"
 response = requests.get(url)
 soup = BeautifulSoup(response.content, 'html.parser')
 
-# Example data extraction (needs to be customized based on actual page structure)
+# Example data extraction (customize based on actual page structure)
 events = []
 event_counter = 1
+
+print("Response content length:", len(response.content))
+
 for event in soup.find_all('div', class_='search-event-card-wrapper'):
     title_tag = event.find('div', class_='eds-event-card__formatted-name--is-clamped')
     link_tag = event.find('a', class_='eds-event-card-content__action-link')
     description_tag = event.find('div', class_='eds-event-card-content__sub-title')
     image_tag = event.find('img', class_='eds-event-card-content__image')
 
+    # Check if all tags are found
     if title_tag and link_tag and description_tag and image_tag:
         title = title_tag.text.strip()
         link = link_tag['href']
