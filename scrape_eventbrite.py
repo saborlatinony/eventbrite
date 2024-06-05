@@ -15,7 +15,8 @@ for event in soup.find_all('div', class_='search-event-card-wrapper'):
     title = event.find('div', class_='eds-event-card__formatted-name--is-clamped').text.strip()
     link = event.find('a', class_='eds-event-card-content__action-link')['href']
     description = event.find('div', class_='eds-event-card-content__sub-title').text.strip()
-    image_link = event.find('img', class_='card-image__img')['src']
+    image_tag = event.find('img', class_='eds-event-card-content__image')
+    image_link = image_tag['src'] if image_tag else ''
 
     # Generate a unique ID for each event
     unique_id = f"event_{event_counter}"
