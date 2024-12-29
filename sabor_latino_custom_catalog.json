@@ -1,226 +1,46 @@
 [
     {
-        "title": "INDUSTRY MONDAYS | NEW YORK",
-        "$id": "1079782792399",
-        "description": "HOY! Lunes 18 de noviembre, 2024",
-        "$link": "https://www.eventbrite.com/e/industry-mondays-new-york-tickets-1079782792399",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F896711303%2F2173328878303%2F1%2Foriginal.20241111-213212?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-19&fp-y=5e-19&s=20447ad94792bdb36291592a352797ce",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "ECUADOR VS  COLOMBIA | NEW YORK",
-        "$id": "1051236034277",
-        "description": "Este Martes 19 de noviembre, 2024.",
-        "$link": "https://www.eventbrite.com/e/ecuador-vs-colombia-new-york-tickets-1051236034277",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F878505519%2F2173328878303%2F1%2Foriginal.20241018-230715?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-09&fp-y=5e-09&s=32a35ee12e74ec60c4a868c024b4a31b",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "NOCHE DE PERREO Y CROSSOVER | NEW YORK",
-        "$id": "1067631156529",
-        "description": "Este Martes 19 de noviembre, 2024.",
-        "$link": "https://www.eventbrite.com/e/noche-de-perreo-y-crossover-new-york-tickets-1067631156529",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F887717383%2F2173328878303%2F1%2Foriginal.20241030-165748?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-15&fp-y=5e-15&s=1b0232b87b5f0e4a1559202282485395",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "DESPECHO Y CROSSOVER | NEW YORK",
-        "$id": "1061170994009",
-        "description": "Este Mi\u00e9rcoles 20 de noviembre, 2024.",
-        "$link": "https://www.eventbrite.com/e/despecho-y-crossover-new-york-tickets-1061170994009",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F884115063%2F2173328878303%2F1%2Foriginal.20241026-233458?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-09&fp-y=5e-09&s=78366bce5cceeab6a13ad1013f7237f2",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "JUEVES DE KARAOKE ! NEW YORK",
-        "$id": "1067886650719",
-        "description": "Este Jueves 21 de noviembre, 2024.",
-        "$link": "https://www.eventbrite.com/e/jueves-de-karaoke-new-york-tickets-1067886650719",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F876096239%2F2173328878303%2F1%2Foriginal.20241016-160713?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=4e24ced48c88286c93ce293ee7985305",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "PREMIOS LATINOS FAMA !NEW YORK",
-        "$id": "1059227149919",
-        "description": "Este Jueves 21 de noviembre, 2024.",
-        "$link": "https://www.eventbrite.com/e/premios-latinos-fama-new-york-tickets-1059227149919",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F883402033%2F2173328878303%2F1%2Foriginal.20241025-143508?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-07&fp-y=5e-07&s=f77124274a2fc05a8691218400acb91f",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "SEMAFORO PARTY  | NEW YORK",
-        "$id": "1070806263359",
-        "description": "Este Viernes 22 de noviembre, 2024.",
-        "$link": "https://www.eventbrite.com/e/semaforo-party-new-york-tickets-1070806263359",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F892586113%2F2173328878303%2F1%2Foriginal.20241105-221306?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.00490248030726&fp-y=0.000653635462898&s=e68753923804e976767ea33665d3fc1e",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "BRYNDIS X SIEMPRE ! QUEENS, NY",
-        "$id": "1082420602159",
-        "description": "Este Viernes 22 de noviembre, 2024.",
-        "$link": "https://www.eventbrite.com/e/bryndis-x-siempre-queens-ny-tickets-1082420602159",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F898387013%2F2173328878303%2F1%2Foriginal.20241113-190505?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9cf5f410a721425e2ef08324a5019c54",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "LA COMBINACION PERFECTA EN QUEENS,  NEW YORK",
-        "$id": "1060921618119",
-        "description": "Este S\u00e1bado 23 de noviembre, 2024.",
-        "$link": "https://www.eventbrite.com/e/la-combinacion-perfecta-en-queens-new-york-tickets-1060921618119",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F884000593%2F2173328878303%2F1%2Foriginal.20241026-165757?crop=focalpoint&fit=crop&h=181&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-11&fp-y=5e-11&s=f6ad1524d50c4256fd726036fd8df917",
-        "price": 0,
-        "categories": []
-    },
-    {
         "title": "NOCHE LATINA | NEW YORK",
-        "$id": "1083365668879",
-        "description": "Este S\u00e1bado 23 de noviembre, 2024.",
-        "$link": "https://www.eventbrite.com/e/noche-latina-new-york-tickets-1083365668879",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F899346813%2F2173328878303%2F1%2Foriginal.20241114-211535?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-25&fp-y=5e-25&s=62dae6c0e8514036206ac38700bcdd12",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "NOCHE DE PERREO Y CROSSOVER | NEW YORK",
-        "$id": "1067635148469",
-        "description": "Este Martes 26 de noviembre, 2024.",
-        "$link": "https://www.eventbrite.com/e/noche-de-perreo-y-crossover-new-york-tickets-1067635148469",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F887717383%2F2173328878303%2F1%2Foriginal.20241030-165748?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-15&fp-y=5e-15&s=1b0232b87b5f0e4a1559202282485395",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "DESPECHO Y CROSSOVER | NEW YORK",
-        "$id": "1061171736229",
-        "description": "Este Mi\u00e9rcoles 27 de noviembre, 2024.",
-        "$link": "https://www.eventbrite.com/e/despecho-y-crossover-new-york-tickets-1061171736229",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F884154723%2F2173328878303%2F1%2Foriginal.20241027-024934?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-09&fp-y=5e-09&s=4f5a313e72a1552680a5bda8f46e1165",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "WILMER MANGA & LA SONORA DINAMITA ! NEW YORK",
-        "$id": "1067845116489",
-        "description": "Este Mi\u00e9rcoles 27 de noviembre, 2024.",
-        "$link": "https://www.eventbrite.com/e/wilmer-manga-la-sonora-dinamita-new-york-tickets-1067845116489",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F887834043%2F2173328878303%2F1%2Foriginal.20241030-185542?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0d24b86a803e5bca6b1a15c7143d173f",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "JUEVES DE KARAOKE ! NEW YORK",
-        "$id": "1067906841109",
-        "description": "Este Jueves 28 de noviembre, 2024.",
-        "$link": "https://www.eventbrite.com/e/jueves-de-karaoke-new-york-tickets-1067906841109",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F876096239%2F2173328878303%2F1%2Foriginal.20241016-160713?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=4e24ced48c88286c93ce293ee7985305",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "SEMAFORO PARTY  | NEW YORK",
-        "$id": "1083659196829",
-        "description": "Este Viernes 29 de noviembre, 2024.",
-        "$link": "https://www.eventbrite.com/e/semaforo-party-new-york-tickets-1083659196829",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F899550863%2F2173328878303%2F1%2Foriginal.20241115-031341?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=4.72738303099e-05&fp-y=6.14724957062e-06&s=f357ae0e4193eb87ca8cee692b2919bf",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "NOCHE LATINA | NEW YORK",
-        "$id": "1083638474849",
-        "description": "Este S\u00e1bado 30 de noviembre, 2024.",
-        "$link": "https://www.eventbrite.com/e/noche-latina-new-york-tickets-1083638474849",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F899539213%2F2173328878303%2F1%2Foriginal.20241115-024205?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-27&fp-y=5e-27&s=d0567db40c1782cfd8085e0200a4e346",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "PATRULLAS 81! NEW YORK",
-        "$id": "1078401851969",
-        "description": "Este S\u00e1bado 30 de noviembre, 2024.",
-        "$link": "https://www.eventbrite.com/e/patrullas-81-new-york-tickets-1078401851969",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F895602903%2F2173328878303%2F1%2Foriginal.20241109-230243?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-05&fp-y=5e-05&s=5c10c609cf6cce61d465a4c73d9e628b",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "NOCHE DE PERREO Y CROSSOVER | NEW YORK",
-        "$id": "1067967873659",
-        "description": "Este Martes 03 de diciembre, 2024.",
-        "$link": "https://www.eventbrite.com/e/noche-de-perreo-y-crossover-new-york-tickets-1067967873659",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F887717383%2F2173328878303%2F1%2Foriginal.20241030-165748?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-15&fp-y=5e-15&s=1b0232b87b5f0e4a1559202282485395",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "DESPECHO Y CROSSOVER | NEW YORK",
-        "$id": "1067970080259",
-        "description": "Este Mi\u00e9rcoles 04 de diciembre, 2024.",
-        "$link": "https://www.eventbrite.com/e/despecho-y-crossover-new-york-tickets-1067970080259",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F884115063%2F2173328878303%2F1%2Foriginal.20241026-233458?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-09&fp-y=5e-09&s=78366bce5cceeab6a13ad1013f7237f2",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "JUEVES DE KARAOKE ! NEW YORK",
-        "$id": "1067948445549",
-        "description": "Este Jueves 05 de diciembre, 2024.",
-        "$link": "https://www.eventbrite.com/e/jueves-de-karaoke-new-york-tickets-1067948445549",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F876096239%2F2173328878303%2F1%2Foriginal.20241016-160713?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=4e24ced48c88286c93ce293ee7985305",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "CUARTETAZO BAILABLE  ! NEW YORK",
-        "$id": "1077122304809",
-        "description": "Este Viernes 06 de diciembre, 2024.",
-        "$link": "https://www.eventbrite.com/e/cuartetazo-bailable-new-york-tickets-1077122304809",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F894525853%2F2173328878303%2F1%2Foriginal.20241108-023813?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-05&fp-y=5e-05&s=2f17ddeff9f763086959a809d5fc24cc",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "ENCUENTRO  NAVIDE\u00d1O ! NEW YORK",
-        "$id": "1034400378377",
-        "description": "Este S\u00e1bado 07 de diciembre, 2024.",
-        "$link": "https://www.eventbrite.com/e/encuentro-navideno-new-york-tickets-1034400378377",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F877457279%2F2173328878303%2F1%2Foriginal.20241017-204750?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-07&fp-y=5e-07&s=5ddd0ab3e6257819f294d3d39533294e",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "John Acosta con \"Ismaelito Original\"- Tour EE.UU- Identidad Stand up Comedy",
-        "$id": "1086611747989",
-        "description": "Este Viernes 13 de diciembre, 2024.",
-        "$link": "https://www.eventbrite.com/e/john-acosta-con-ismaelito-original-tour-eeuu-identidad-stand-up-comedy-tickets-1086611747989",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F900960163%2F2173328878303%2F1%2Foriginal.20241118-025954?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.565921384343&fp-y=0.0283985657451&s=3e4aaf3bc04c54aed3981168f56f8c8d",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "MIGUEL MOLY, KAROLINA K Y SANDRA ARGUDO  ! NEW YORK",
-        "$id": "1086576913799",
-        "description": "Este Viernes 20 de diciembre, 2024.",
-        "$link": "https://www.eventbrite.com/e/miguel-moly-karolina-k-y-sandra-argudo-new-york-tickets-1086576913799",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F900932793%2F2173328878303%2F1%2Foriginal.20241118-015559?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-05&fp-y=5e-05&s=a23e526b7ba09d1617b17051485665e3",
+        "$id": "1119905701099",
+        "description": "HOY! S\u00e1bado 28 de diciembre, 2024",
+        "$link": "https://www.eventbrite.com/e/noche-latina-new-york-tickets-1119905701099",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F921053323%2F2173328878303%2F1%2Foriginal.20241220-170318?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-37&fp-y=5e-37&s=14155f096b5007b95d87c20708c973f6",
         "price": 0,
         "categories": []
     },
     {
         "title": "AUTORIDAD DE LA SIERRA  ! NEW YORK",
         "$id": "1086600935649",
-        "description": "Este S\u00e1bado 28 de diciembre, 2024.",
+        "description": "HOY! S\u00e1bado 28 de diciembre, 2024",
         "$link": "https://www.eventbrite.com/e/autoridad-de-la-sierra-new-york-tickets-1086600935649",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F900951013%2F2173328878303%2F1%2Foriginal.20241118-023609?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-05&fp-y=5e-05&s=b90ba5a16c51c6f88aa02294f408b270",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F919773343%2F2173328878303%2F1%2Foriginal.20241218-174409?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-07&fp-y=5e-07&s=e71f305270f71826b08313c5bb707424",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "DOMINGO PALCORO  ! NEW YORK!",
+        "$id": "1104134248259",
+        "description": "Este Domingo 29 de diciembre, 2024.",
+        "$link": "https://www.eventbrite.com/e/domingo-palcoro-new-york-tickets-1104134248259",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F908317273%2F2173328878303%2F1%2Foriginal.20241128-193439?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-09&fp-y=5e-09&s=a030c23b7a458f44eb5e3c6fc6dd1a5a",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "INDUSTRY MONDAYS | NEW YORK",
+        "$id": "1104120196229",
+        "description": "Este Lunes 30 de diciembre, 2024.",
+        "$link": "https://www.eventbrite.com/e/industry-mondays-new-york-tickets-1104120196229",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F910357583%2F2173328878303%2F1%2Foriginal.20241203-020623?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-27&fp-y=5e-27&s=657194ef8321a1cdbcd56ab6b98cb266",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "1ER FESTIVAL DE VIUDAS ! NEW YORK",
+        "$id": "1120324884889",
+        "description": "Este Lunes 30 de diciembre, 2024.",
+        "$link": "https://www.eventbrite.com/e/1er-festival-de-viudas-new-york-tickets-1120324884889",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F921316883%2F280240115497%2F1%2Foriginal.20241221-030650?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.54280155642&fp-y=0.0136186770428&s=89df69fad960221e05577c25ff2ad0d5",
         "price": 0,
         "categories": []
     },
@@ -230,6 +50,123 @@
         "description": "Este Martes 31 de diciembre, 2024.",
         "$link": "https://www.eventbrite.com/e/la-legendaria-sonora-100-dinamita-new-york-tickets-1084953718779",
         "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F900246423%2F2173328878303%2F1%2Foriginal.20241116-023920?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.005&fp-y=0.005&s=36134efd6ae786cec39e1e0c3097ead3",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "FIN DE A\u00d1O JONATHAN EL LATINO ! NEW YORK",
+        "$id": "1107514488649",
+        "description": "Este Martes 31 de diciembre, 2024.",
+        "$link": "https://www.eventbrite.com/e/fin-de-ano-jonathan-el-latino-new-york-tickets-1107514488649",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F913172703%2F2173328878303%2F1%2Foriginal.20241206-221705?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.483538625304&fp-y=0.115758754864&s=d3e6d79e801670ba22b0ba6fca067168",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "DESPECHO Y CROSSOVER | NEW YORK",
+        "$id": "1126256416259",
+        "description": "Este Mi\u00e9rcoles 01 de enero, 2025.",
+        "$link": "https://www.eventbrite.com/e/despecho-y-crossover-new-york-tickets-1126256416259",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F884115063%2F2173328878303%2F1%2Foriginal.20241026-233458?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-09&fp-y=5e-09&s=78366bce5cceeab6a13ad1013f7237f2",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "JUEVES DE KARAOKE ! NEW YORK",
+        "$id": "1126257700099",
+        "description": "Este Jueves 02 de enero, 2025.",
+        "$link": "https://www.eventbrite.com/e/jueves-de-karaoke-new-york-tickets-1126257700099",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F876096239%2F2173328878303%2F1%2Foriginal.20241016-160713?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=4e24ced48c88286c93ce293ee7985305",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "SEMAFORO PARTY  | NEW YORK",
+        "$id": "1126259395169",
+        "description": "Este Viernes 03 de enero, 2025.",
+        "$link": "https://www.eventbrite.com/e/semaforo-party-new-york-tickets-1126259395169",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F924152493%2F2173328878303%2F1%2Foriginal.20241228-160545?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=4.72738303099e-15&fp-y=6.14724957062e-16&s=39a45e1186b4275194607c4f68fbcd52",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "AU-D ! NEW YORK",
+        "$id": "1096306334759",
+        "description": "Este S\u00e1bado 04 de enero, 2025.",
+        "$link": "https://www.eventbrite.com/e/au-d-new-york-tickets-1096306334759",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F923177053%2F2173328878303%2F1%2Foriginal.20241225-135424?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-13&fp-y=5e-13&s=315cbd4f80c90086f80eace7a358312b",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "NOCHE LATINA | NEW YORK",
+        "$id": "1126177640639",
+        "description": "Este S\u00e1bado 04 de enero, 2025.",
+        "$link": "https://www.eventbrite.com/e/noche-latina-new-york-tickets-1126177640639",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F924125803%2F2173328878303%2F1%2Foriginal.20241228-140905?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-39&fp-y=5e-39&s=7ea407f002aec2a6079b30d7e0dffaa9",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "DOMINGO PALCORO  ! NEW YORK!",
+        "$id": "1126258352049",
+        "description": "Este Domingo 05 de enero, 2025.",
+        "$link": "https://www.eventbrite.com/e/domingo-palcoro-new-york-tickets-1126258352049",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F908317273%2F2173328878303%2F1%2Foriginal.20241128-193439?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-09&fp-y=5e-09&s=a030c23b7a458f44eb5e3c6fc6dd1a5a",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "INDUSTRY MONDAYS | NEW YORK",
+        "$id": "1126265393109",
+        "description": "Este Lunes 06 de enero, 2025.",
+        "$link": "https://www.eventbrite.com/e/industry-mondays-new-york-tickets-1126265393109",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F924160963%2F2173328878303%2F1%2Foriginal.20241228-163355?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-29&fp-y=5e-29&s=76ab84351e8eab49759fda20e6040ffe",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "LOS PRISIONEROS  ! BROOKLYN NY!",
+        "$id": "1125823521459",
+        "description": "Este Viernes 24 de enero, 2025.",
+        "$link": "https://www.eventbrite.com/e/los-prisioneros-brooklyn-ny-tickets-1125823521459",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F924018063%2F280240115497%2F1%2Foriginal.20241228-013150?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-09&fp-y=5e-09&s=4d074427a6b192ca31c54e8ca5796e21",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "LOS PRISIONEROS  ! NEW YORK",
+        "$id": "1115940300479",
+        "description": "Este S\u00e1bado 25 de enero, 2025.",
+        "$link": "https://www.eventbrite.com/e/los-prisioneros-new-york-tickets-1115940300479",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918517993%2F2173328878303%2F1%2Foriginal.20241216-223459?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-09&fp-y=5e-09&s=57d388a7de605f885625fa62125e2579",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "LOS IRACUNDOS  ! NEW YORK",
+        "$id": "1107581880219",
+        "description": "Este S\u00e1bado 15 de febrero, 2025.",
+        "$link": "https://www.eventbrite.com/e/los-iracundos-new-york-tickets-1107581880219",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F913225883%2F2173328878303%2F1%2Foriginal.20241207-003107?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=cbb5567eec25d53e5cd934d86d12b154",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "ELVIS MARTINEZ  ! BROOKLYN NY!",
+        "$id": "1125755778839",
+        "description": "Este S\u00e1bado 15 de febrero, 2025.",
+        "$link": "https://www.eventbrite.com/e/elvis-martinez-brooklyn-ny-tickets-1125755778839",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F923950463%2F2173328878303%2F1%2Foriginal.20241227-220528?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-07&fp-y=5e-07&s=0d81408b69955ab1dcd1a299374b0b0f",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "LA APUESTA ! NEW YORK",
+        "$id": "1125769720539",
+        "description": "Este Viernes 21 de febrero, 2025.",
+        "$link": "https://www.eventbrite.com/e/la-apuesta-new-york-tickets-1125769720539",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F923963513%2F2173328878303%2F1%2Foriginal.20241227-223522?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c504b2cc45b46d95710ccc593d79c1fd",
         "price": 0,
         "categories": []
     }
