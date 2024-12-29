@@ -1,0 +1,44 @@
+Last login: Wed Oct 16 11:08:32 on console
+danmalver@Daniels-MacBook-Pro Eventbrite API Klavio Python % python3 Eventbrite_API_Klavio_Python.py
+Transformed data saved to 'sabor_latino_custom_catalog.json'. Total future events: 24
+danmalver@Daniels-MacBook-Pro Eventbrite API Klavio Python % git add sabor_latino_custom_catalog.json
+git commit -m "Manual update of event catalog"
+git push origin main
+
+[main 38e58c4] Manual update of event catalog
+ 1 file changed, 69 insertions(+), 87 deletions(-)
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 10 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 998 bytes | 998.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/saborlatinony/eventbrite.git
+   896e078..38e58c4  main -> main
+danmalver@Daniels-MacBook-Pro Eventbrite API Klavio Python % crontab -e
+
+crontab: no crontab for danmalver - using an empty one
+
+0 19 * * * /usr/bin/python3 /Users/danmalver/Documents/Eventbrite\ API\ Klavio\ Python/Eventbrite_API_Klavio_Python.py >> /Users/danmalver/Documents/Eventbrite\ API\ Klavio\ Python/cron_log.txt 2>&1
+
+
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+-- INSERT --
