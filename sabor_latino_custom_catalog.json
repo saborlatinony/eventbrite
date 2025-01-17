@@ -1,37 +1,10 @@
 [
     {
-        "title": "TEQUILA TUESDAY | NEW YORK",
-        "$id": "1131313762919",
-        "description": "HOY! Martes 14 de enero, 2025",
-        "$link": "https://www.eventbrite.com/e/tequila-tuesday-new-york-tickets-1131313762919",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F930084803%2F2173328878303%2F1%2Foriginal.20250107-231626?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-17&fp-y=5e-17&s=732e772cab7a9fab3de74c622c9a79b6",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "MIDWEEK | NEW YORK",
-        "$id": "1131287394049",
-        "description": "Este Mi\u00e9rcoles 15 de enero, 2025.",
-        "$link": "https://www.eventbrite.com/e/midweek-new-york-tickets-1131287394049",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F930079043%2F2173328878303%2F1%2Foriginal.20250107-230826?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-11&fp-y=5e-11&s=0f88596a9a02a19a4e387db22152f5cd",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "JUERNES EN  ! NEW YORK !",
-        "$id": "1131185218439",
-        "description": "Este Jueves 16 de enero, 2025.",
-        "$link": "https://www.eventbrite.com/e/juernes-en-new-york-tickets-1131185218439",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F931150113%2F2173328878303%2F1%2Foriginal.20250109-013432?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.005&fp-y=0.005&s=8ab263d9297a5042359d8ae37b945a25",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "SEMAFORO PARTY  | NEW YORK",
+        "title": "CUMBIA & REGUETON | NEW YORK",
         "$id": "1131233653309",
-        "description": "Este Viernes 17 de enero, 2025.",
-        "$link": "https://www.eventbrite.com/e/semaforo-party-new-york-tickets-1131233653309",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F926499773%2F2173328878303%2F1%2Foriginal.20250102-215430?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=4.72738303099e-19&fp-y=6.14724957062e-20&s=78bdc8a47a3b9d98af0ff8d3b5af906a",
+        "description": "HOY! Viernes 17 de enero, 2025",
+        "$link": "https://www.eventbrite.com/e/cumbia-regueton-new-york-tickets-1131233653309",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F936635453%2F2173328878303%2F1%2Foriginal.20250115-185511?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=4.72738303099e-21&fp-y=6.14724957062e-22&s=d3b3c748c1923a511aec7b3c7050ff0a",
         "price": 0,
         "categories": []
     },
@@ -122,15 +95,6 @@
         "description": "Este Viernes 24 de enero, 2025.",
         "$link": "https://www.eventbrite.com/e/tributo-al-gran-combo-y-grupo-niche-ny-tickets-1129177413039",
         "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F925589843%2F2173328878303%2F1%2Foriginal.20241231-215205?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-11&fp-y=5e-11&s=f12f05fe075430e80ef604b9c76f088b",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "LOS PRISIONEROS ! QUEENS",
-        "$id": "1115940300479",
-        "description": "Este S\u00e1bado 25 de enero, 2025.",
-        "$link": "https://www.eventbrite.com/e/los-prisioneros-queens-tickets-1115940300479",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918517993%2F2173328878303%2F1%2Foriginal.20241216-223459?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-09&fp-y=5e-09&s=57d388a7de605f885625fa62125e2579",
         "price": 0,
         "categories": []
     },
@@ -302,6 +266,15 @@
         "description": "Este Viernes 28 de febrero, 2025.",
         "$link": "https://www.eventbrite.com/e/1er-carnavalazo-new-york-tickets-1146525842659",
         "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F932930413%2F2173328878303%2F1%2Foriginal.20250111-004512?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=018b5f29210a33b39c9e8a3737b43b69",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "LOS PRISIONEROS ! QUEENS",
+        "$id": "1115940300479",
+        "description": "Este Viernes 11 de abril, 2025.",
+        "$link": "https://www.eventbrite.com/e/los-prisioneros-queens-tickets-1115940300479",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F937327763%2F2173328878303%2F1%2Foriginal.20250116-142023?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-11&fp-y=5e-11&s=548ea1642d5550f310597427fe927c3f",
         "price": 0,
         "categories": []
     }
