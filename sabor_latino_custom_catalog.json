@@ -1,62 +1,8 @@
 [
     {
-        "title": "LA APUESTA ! NEW YORK",
-        "$id": "1125769720539",
-        "description": "HOY! Viernes 21 de febrero, 2025",
-        "$link": "https://www.eventbrite.com/e/la-apuesta-new-york-tickets-1125769720539",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F923963513%2F2173328878303%2F1%2Foriginal.20241227-223522?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c504b2cc45b46d95710ccc593d79c1fd",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "TRIBUTO A LEO DAN, HOMENAJE A JUAN GABRIEL  !  NY!",
-        "$id": "1218666226489",
-        "description": "HOY! Viernes 21 de febrero, 2025",
-        "$link": "https://www.eventbrite.com/e/tributo-a-leo-dan-homenaje-a-juan-gabriel-ny-tickets-1218666226489",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F942559973%2F2173328878303%2F1%2Foriginal.20250123-021056?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-13&fp-y=5e-13&s=d2e474f41eec99362b8e868253d94c26",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "NOCHE LATINA | NEW YORK",
-        "$id": "1252452542269",
-        "description": "Este S\u00e1bado 22 de febrero, 2025.",
-        "$link": "https://www.eventbrite.com/e/noche-latina-new-york-tickets-1252452542269",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F962835543%2F2173328878303%2F1%2Foriginal.20250217-223611?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-59&fp-y=5e-59&s=472ae33cd9985a798ab70252506d5e92",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "RAFA  PEREZ ! QUEENS",
-        "$id": "1192685728119",
-        "description": "Este S\u00e1bado 22 de febrero, 2025.",
-        "$link": "https://www.eventbrite.com/e/rafa-perez-queens-tickets-1192685728119",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F935332553%2F2173328878303%2F1%2Foriginal.20250114-144012?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=4.54545454545e-05&fp-y=4.46096654275e-05&s=4a7b3693c1713d78226e8e5602873908",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "LATIN SUNDAY  ! NEW YORK!",
-        "$id": "1228826556309",
-        "description": "Este Domingo 23 de febrero, 2025.",
-        "$link": "https://www.eventbrite.com/e/latin-sunday-new-york-tickets-1228826556309",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F943748873%2F2173328878303%2F1%2Foriginal.20250124-130906?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-13&fp-y=5e-13&s=ae61660e7905a49347e56e84ce2cb740",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "INDUSTRY MONDAYS | NEW YORK",
-        "$id": "1227975591049",
-        "description": "Este Lunes 24 de febrero, 2025.",
-        "$link": "https://www.eventbrite.com/e/industry-mondays-new-york-tickets-1227975591049",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F943749493%2F2173328878303%2F1%2Foriginal.20250124-131016?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-33&fp-y=5e-33&s=d7d78e700d09eb1463af6cf3218b4a6e",
-        "price": 0,
-        "categories": []
-    },
-    {
         "title": "TEQUILA TUESDAY | NEW YORK",
         "$id": "1228840347559",
-        "description": "Este Martes 25 de febrero, 2025.",
+        "description": "HOY! Martes 25 de febrero, 2025",
         "$link": "https://www.eventbrite.com/e/tequila-tuesday-new-york-tickets-1228840347559",
         "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F943750893%2F2173328878303%2F1%2Foriginal.20250124-131224?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-19&fp-y=5e-19&s=f5e346467b7db0d0abb151c087b837db",
         "price": 0,
@@ -99,6 +45,24 @@
         "categories": []
     },
     {
+        "title": "ELVIS MARTINEZ Celebrando el D\u00eda del Amor y la Amistad en NJ!",
+        "$id": "1257737028309",
+        "description": "Este Viernes 28 de febrero, 2025.",
+        "$link": "https://www.eventbrite.com/e/elvis-martinez-celebrando-el-dia-del-amor-y-la-amistad-en-nj-tickets-1257737028309",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F967574573%2F2173328878303%2F1%2Foriginal.20250224-025951?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.005&fp-y=0.005&s=120367c72ea6ec0a080f54b2581afec9",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "DJ KASSANOVA Y NOCHE LATINA | NEW YORK",
+        "$id": "1257645223719",
+        "description": "Este S\u00e1bado 01 de marzo, 2025.",
+        "$link": "https://www.eventbrite.com/e/dj-kassanova-y-noche-latina-new-york-tickets-1257645223719",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F967438743%2F2173328878303%2F1%2Foriginal.20250223-221258?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-61&fp-y=5e-61&s=b04782486c3e492af0acbe4d754c4584",
+        "price": 0,
+        "categories": []
+    },
+    {
         "title": "GRUPO SAMURAY ! NEW YORK",
         "$id": "1226394511999",
         "description": "Este S\u00e1bado 01 de marzo, 2025.",
@@ -135,6 +99,33 @@
         "categories": []
     },
     {
+        "title": "BACHATON & REGUET\u00d3N  | NEW YORK",
+        "$id": "1259813077829",
+        "description": "Este Viernes 07 de marzo, 2025.",
+        "$link": "https://www.eventbrite.com/e/bachaton-regueton-new-york-tickets-1259813077829",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F969205683%2F2173328878303%2F1%2Foriginal.20250225-185600?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5c36e5f0d977bbf6042a9e7bb755c82b",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "ELVIS MARTINEZ Celebrando el D\u00eda del Amor y la Amistad en Long Island, NY!",
+        "$id": "1256943565039",
+        "description": "Este S\u00e1bado 08 de marzo, 2025.",
+        "$link": "https://www.eventbrite.com/e/elvis-martinez-celebrando-el-dia-del-amor-y-la-amistad-en-long-island-ny-tickets-1256943565039",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F966670603%2F2173328878303%2F1%2Foriginal.20250222-003940?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1cf2bbde4ab8169b423ceb021aeed193",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "RECORDANDO A LAS MUSAS DEL VALLENATO ! EN QUEENS NY",
+        "$id": "1259869947929",
+        "description": "Este Viernes 14 de marzo, 2025.",
+        "$link": "https://www.eventbrite.com/e/recordando-a-las-musas-del-vallenato-en-queens-ny-tickets-1259869947929",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F969254013%2F2173328878303%2F1%2Foriginal.20250225-193923?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-17&fp-y=5e-17&s=99dca385b5027dc63953f4b9d2cfe350",
+        "price": 0,
+        "categories": []
+    },
+    {
         "title": "BRASIL VS COLOMBIA EN NEW YORK",
         "$id": "1233986971249",
         "description": "Este Jueves 20 de marzo, 2025.",
@@ -149,6 +140,15 @@
         "description": "Este Viernes 21 de marzo, 2025.",
         "$link": "https://www.eventbrite.com/e/ecuador-vs-venezuela-en-new-york-tickets-1233921786279",
         "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F951583903%2F2173328878303%2F1%2Foriginal.20250203-192843?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-07&fp-y=5e-07&s=fac5ba9e443022c36ba866b28d607259",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "TOUR DEL ROMANTISISMO LADRON, LOS CAMINANTES, PEGASO Y SONORA  ! NEW YORK",
+        "$id": "1256896042899",
+        "description": "Este Viernes 21 de marzo, 2025.",
+        "$link": "https://www.eventbrite.com/e/tour-del-romantisismo-ladron-los-caminantes-pegaso-y-sonora-new-york-tickets-1256896042899",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F966572863%2F2173328878303%2F1%2Foriginal.20250221-213206?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=abadec9c052c130d2e22db903a9053e4",
         "price": 0,
         "categories": []
     },
@@ -171,20 +171,29 @@
         "categories": []
     },
     {
-        "title": "LOS PRISIONEROS ! QUEENS",
+        "title": "LOS PRISIONEROS ! EN QUEENS NY",
         "$id": "1115940300479",
         "description": "Este Viernes 11 de abril, 2025.",
-        "$link": "https://www.eventbrite.com/e/los-prisioneros-queens-tickets-1115940300479",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F941504733%2F2173328878303%2F1%2Foriginal.20250122-002845?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-13&fp-y=5e-13&s=4b714f9a236ed271189de7e77a78cc41",
+        "$link": "https://www.eventbrite.com/e/los-prisioneros-en-queens-ny-tickets-1115940300479",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F967372733%2F2173328878303%2F1%2Foriginal.20250223-200339?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-15&fp-y=5e-15&s=102e6a887c1e305a563cb72ec0c9f935",
         "price": 0,
         "categories": []
     },
     {
-        "title": "LOS PRISIONEROS ! BROOKLYN",
+        "title": "LOS PRISIONEROS POR PRIMERA VEZ EN EAST HEAVEN CONNECTICUT!!",
+        "$id": "1257610780699",
+        "description": "Este S\u00e1bado 12 de abril, 2025.",
+        "$link": "https://www.eventbrite.com/e/los-prisioneros-por-primera-vez-en-east-heaven-connecticut-tickets-1257610780699",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F967399603%2F2173328878303%2F1%2Foriginal.20250223-210127?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-13&fp-y=5e-13&s=ba33d9e0cf4b520bdaa1597104e2d0a8",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "LOS PRISIONEROS !BRENTWOOD, NY!",
         "$id": "1125823521459",
         "description": "Este S\u00e1bado 12 de abril, 2025.",
-        "$link": "https://www.eventbrite.com/e/los-prisioneros-brooklyn-tickets-1125823521459",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F924018063%2F280240115497%2F1%2Foriginal.20241228-013150?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-09&fp-y=5e-09&s=4d074427a6b192ca31c54e8ca5796e21",
+        "$link": "https://www.eventbrite.com/e/los-prisioneros-brentwood-ny-tickets-1125823521459",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F967380103%2F2173328878303%2F1%2Foriginal.20250223-201922?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-11&fp-y=5e-11&s=3ab91d14452a6a567494e496a920e45d",
         "price": 0,
         "categories": []
     }
