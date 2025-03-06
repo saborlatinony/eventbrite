@@ -1,17 +1,8 @@
 [
     {
-        "title": "MIDWEEK | NEW YORK",
-        "$id": "1234720324729",
-        "description": "HOY! Mi\u00e9rcoles 05 de marzo, 2025",
-        "$link": "https://www.eventbrite.com/e/midweek-new-york-tickets-1234720324729",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F943751933%2F2173328878303%2F1%2Foriginal.20250124-131420?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5acf733ff63744f84ea2306b24ee7cdc",
-        "price": 0,
-        "categories": []
-    },
-    {
         "title": "JUERNES ! NEW YORK!",
         "$id": "1234723173249",
-        "description": "Este Jueves 06 de marzo, 2025.",
+        "description": "HOY! Jueves 06 de marzo, 2025",
         "$link": "https://www.eventbrite.com/e/juernes-new-york-tickets-1234723173249",
         "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F943752603%2F2173328878303%2F1%2Foriginal.20250124-131542?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-05&fp-y=5e-05&s=eb640aaf25abdf8ac1904a8fc1ba8af2",
         "price": 0,
@@ -41,6 +32,15 @@
         "description": "Este S\u00e1bado 08 de marzo, 2025.",
         "$link": "https://www.eventbrite.com/e/elvis-martinez-celebrando-el-dia-del-amor-y-la-amistad-en-long-island-ny-tickets-1256943565039",
         "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F966670603%2F2173328878303%2F1%2Foriginal.20250222-003940?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1cf2bbde4ab8169b423ceb021aeed193",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "FESTIVAL DEL CHAMCHO ! NEW YORK",
+        "$id": "1272914544669",
+        "description": "Este Viernes 14 de marzo, 2025.",
+        "$link": "https://www.eventbrite.com/e/festival-del-chamcho-new-york-tickets-1272914544669",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F977221303%2F2173328878303%2F1%2Foriginal.20250306-184450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-05&fp-y=5e-05&s=a8532576988dfd4f1218e716d05a04c1",
         "price": 0,
         "categories": []
     },
@@ -95,6 +95,24 @@
         "description": "Este Martes 25 de marzo, 2025.",
         "$link": "https://www.eventbrite.com/e/colombia-vs-paraguay-en-new-york-tickets-1234106639179",
         "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F951798363%2F2173328878303%2F1%2Foriginal.20250203-225736?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-11&fp-y=5e-11&s=633c5ad35f8de1cef068667ae4d6acc8",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "ALCI ACOSTA  NY",
+        "$id": "1270838986619",
+        "description": "Este S\u00e1bado 29 de marzo, 2025.",
+        "$link": "https://www.eventbrite.com/e/alci-acosta-ny-tickets-1270838986619",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F976154453%2F2173328878303%2F1%2Foriginal.20250305-183518?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a352e23d08e8f53385538574271f572b",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "I LOVE THE  90'S  DJ  ! EN QUEENS NY",
+        "$id": "1271478399119",
+        "description": "Este S\u00e1bado 05 de abril, 2025.",
+        "$link": "https://www.eventbrite.com/e/i-love-the-90s-dj-en-queens-ny-tickets-1271478399119",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F976453783%2F2173328878303%2F1%2Foriginal.20250305-230202?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-19&fp-y=5e-19&s=c3e86aa145b7cbc78654d89654eeab6c",
         "price": 0,
         "categories": []
     },
