@@ -1,46 +1,19 @@
 [
     {
-        "title": "FESTIVAL DEL CHANCHO ! NEW YORK",
-        "$id": "1272914544669",
-        "description": "Este Viernes 14 de marzo, 2025.",
-        "$link": "https://www.eventbrite.com/e/festival-del-chancho-new-york-tickets-1272914544669",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F977221303%2F2173328878303%2F1%2Foriginal.20250306-184450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-05&fp-y=5e-05&s=a8532576988dfd4f1218e716d05a04c1",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "BACHATON & REGUET\u00d3N  | NEW YORK",
-        "$id": "1280115031519",
-        "description": "Este Viernes 14 de marzo, 2025.",
-        "$link": "https://www.eventbrite.com/e/bachaton-regueton-new-york-tickets-1280115031519",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F981241373%2F2173328878303%2F1%2Foriginal.20250311-210320?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.005&fp-y=0.005&s=38859fd27ddbe340528e80b51591d16d",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "RECORDANDO A LAS MUSAS DEL VALLENATO ! EN QUEENS NY",
-        "$id": "1259869947929",
-        "description": "Este Viernes 14 de marzo, 2025.",
-        "$link": "https://www.eventbrite.com/e/recordando-a-las-musas-del-vallenato-en-queens-ny-tickets-1259869947929",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F969254013%2F2173328878303%2F1%2Foriginal.20250225-193923?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-17&fp-y=5e-17&s=99dca385b5027dc63953f4b9d2cfe350",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "NOCHE LATINA | NEW YORK",
-        "$id": "1280076315719",
-        "description": "Este S\u00e1bado 15 de marzo, 2025.",
-        "$link": "https://www.eventbrite.com/e/noche-latina-new-york-tickets-1280076315719",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F981223503%2F2173328878303%2F1%2Foriginal.20250311-204527?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-63&fp-y=5e-63&s=286969c97a2cb908f58473bcac815e3f",
-        "price": 0,
-        "categories": []
-    },
-    {
         "title": "BRASIL VS COLOMBIA EN NEW YORK",
         "$id": "1233986971249",
-        "description": "Este Jueves 20 de marzo, 2025.",
+        "description": "HOY! Jueves 20 de marzo, 2025",
         "$link": "https://www.eventbrite.com/e/brasil-vs-colombia-en-new-york-tickets-1233986971249",
         "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F951637273%2F2173328878303%2F1%2Foriginal.20250203-201610?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-09&fp-y=5e-09&s=ef87f25cd6babe94b1e0a34e343bfa0d",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "CEVICHE FEST ! NEW YORK",
+        "$id": "1291381710459",
+        "description": "Este Viernes 21 de marzo, 2025.",
+        "$link": "https://www.eventbrite.com/e/ceviche-fest-new-york-tickets-1291381710459",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F986686133%2F2173328878303%2F1%2Foriginal.20250318-160450?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=77f3995cdb5c76cf689f0ed3dfe9031d",
         "price": 0,
         "categories": []
     },
@@ -49,16 +22,43 @@
         "$id": "1233921786279",
         "description": "Este Viernes 21 de marzo, 2025.",
         "$link": "https://www.eventbrite.com/e/ecuador-vs-venezuela-en-new-york-tickets-1233921786279",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F951583903%2F2173328878303%2F1%2Foriginal.20250203-192843?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-07&fp-y=5e-07&s=fac5ba9e443022c36ba866b28d607259",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F986672993%2F2173328878303%2F1%2Foriginal.20250318-155452?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-13&fp-y=5e-13&s=3402808f7e451be9b9fb969068238d6e",
         "price": 0,
         "categories": []
     },
     {
-        "title": "TOUR DEL ROMANTISISMO LADRON, LOS CAMINANTES, PEGASSO Y SONORA DINAMITA  NY",
+        "title": "JUANITA BURBANO ECUADOR VS VENEZUELA EN NY",
+        "$id": "1291286846719",
+        "description": "Este Viernes 21 de marzo, 2025.",
+        "$link": "https://www.eventbrite.com/e/juanita-burbano-ecuador-vs-venezuela-en-ny-tickets-1291286846719",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F986625113%2F2173328878303%2F1%2Foriginal.20250318-151701?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-13&fp-y=5e-13&s=4d9dd37f6f3b870f2538e0c807d71293",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "RUMBA SAZON & REGGAETON  | NEW YORK",
+        "$id": "1285359247109",
+        "description": "Este Viernes 21 de marzo, 2025.",
+        "$link": "https://www.eventbrite.com/e/rumba-sazon-reggaeton-new-york-tickets-1285359247109",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F983527493%2F2173328878303%2F1%2Foriginal.20250314-022504?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-05&fp-y=5e-05&s=c93b19bfc78dfa8215fbd078b4113ced",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "TOUR DEL ROMANTISISMO EN NY",
         "$id": "1256896042899",
         "description": "Este Viernes 21 de marzo, 2025.",
-        "$link": "https://www.eventbrite.com/e/tour-del-romantisismo-ladron-los-caminantes-pegasso-y-sonora-dinamita-ny-tickets-1256896042899",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F966572863%2F2173328878303%2F1%2Foriginal.20250221-213206?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=abadec9c052c130d2e22db903a9053e4",
+        "$link": "https://www.eventbrite.com/e/tour-del-romantisismo-en-ny-tickets-1256896042899",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F984615373%2F280240115497%2F1%2Foriginal.20250315-181930?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8493f39c82e2d5b73d744e889d9e668e",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "NOCHE LATINA | NEW YORK",
+        "$id": "1289938122649",
+        "description": "Este S\u00e1bado 22 de marzo, 2025.",
+        "$link": "https://www.eventbrite.com/e/noche-latina-new-york-tickets-1289938122649",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F985597033%2F2173328878303%2F1%2Foriginal.20250317-152235?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-65&fp-y=5e-65&s=7fba2376d00cec4deff546bbb7408fe5",
         "price": 0,
         "categories": []
     },
@@ -68,6 +68,15 @@
         "description": "Este S\u00e1bado 22 de marzo, 2025.",
         "$link": "https://www.eventbrite.com/e/carinosos-party-new-york-tickets-1277779816829",
         "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F979634673%2F2173328878303%2F1%2Foriginal.20250310-125058?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.005&fp-y=0.005&s=7e109148cc501754c55da0193b625538",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "CONCURSO NACIONAL DEL CANTO ! NEW YORK",
+        "$id": "1285330521189",
+        "description": "Este Lunes 24 de marzo, 2025.",
+        "$link": "https://www.eventbrite.com/e/concurso-nacional-del-canto-new-york-tickets-1285330521189",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F983518623%2F2173328878303%2F1%2Foriginal.20250314-020627?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5.1725973236e-09&fp-y=5.57392996109e-09&s=0a882b301f233bf58890b914577060fa",
         "price": 0,
         "categories": []
     },
@@ -140,6 +149,24 @@
         "description": "Este S\u00e1bado 12 de abril, 2025.",
         "$link": "https://www.eventbrite.com/e/los-prisioneros-brentwood-ny-tickets-1125823521459",
         "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F967380103%2F2173328878303%2F1%2Foriginal.20250223-201922?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-11&fp-y=5e-11&s=3ab91d14452a6a567494e496a920e45d",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "BOYACOMAN Y DON JEDIONDO EN! QUEENS NY",
+        "$id": "1295082680159",
+        "description": "Este S\u00e1bado 12 de abril, 2025.",
+        "$link": "https://www.eventbrite.com/e/boyacoman-y-don-jediondo-en-queens-ny-tickets-1295082680159",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F988011353%2F2173328878303%2F1%2Foriginal.20250319-213132?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=4.54545454545e-07&fp-y=4.46096654275e-07&s=bcb9ead05734ce3b73e0dbca1ec59ed0",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "LOS DIABLITOS DEL VALLENATO ! QUEENS NY",
+        "$id": "1292733262989",
+        "description": "Este S\u00e1bado 19 de abril, 2025.",
+        "$link": "https://www.eventbrite.com/e/los-diablitos-del-vallenato-queens-ny-tickets-1292733262989",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F987571733%2F2173328878303%2F1%2Foriginal.20250319-143324?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=4.54545454545e-05&fp-y=4.46096654275e-05&s=9fd54289635f73f8dbc8f87201c4ccb5",
         "price": 0,
         "categories": []
     },
