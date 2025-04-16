@@ -1,109 +1,37 @@
 [
     {
-        "title": "FESTIVAL DE CANGREJOS CRIOLLOS ! NEW YORK",
-        "$id": "1301324178649",
-        "description": "Este Viernes 28 de marzo, 2025.",
-        "$link": "https://www.eventbrite.com/e/festival-de-cangrejos-criollos-new-york-tickets-1301324178649",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F992532583%2F2173328878303%2F1%2Foriginal.20250325-193115?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-05&fp-y=5e-05&s=95b82daba1cdb80491509c759a630517",
+        "title": "SEMANA SANTA FANESCA ! NEW YORK",
+        "$id": "1323618682109",
+        "description": "HOY! Mi\u00e9rcoles 16 de abril, 2025",
+        "$link": "https://www.eventbrite.com/e/semana-santa-fanesca-new-york-tickets-1323618682109",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1003251313%2F2173328878303%2F1%2Foriginal.20250407-214700?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-09&fp-y=5e-09&s=588de1b5808390e759332a7748757bb8",
         "price": 0,
         "categories": []
     },
     {
-        "title": "RUMBA SAZON & REGGAETON  | NEW YORK",
-        "$id": "1299630944139",
-        "description": "Este Viernes 28 de marzo, 2025.",
-        "$link": "https://www.eventbrite.com/e/rumba-sazon-reggaeton-new-york-tickets-1299630944139",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F991315473%2F2173328878303%2F1%2Foriginal.20250324-165237?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-09&fp-y=5e-09&s=efe84acb34b3963e9b90f09e97dff1a8",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "LOS 90\u00a8\u00a8S  ESTAN DE VUELTA ! NEW YORK",
-        "$id": "1280182623689",
-        "description": "Este Viernes 28 de marzo, 2025.",
-        "$link": "https://www.eventbrite.com/e/los-90-s-estan-de-vuelta-new-york-tickets-1280182623689",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F981264103%2F2173328878303%2F1%2Foriginal.20250311-212817?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-05&fp-y=5e-05&s=cc970409183b97aa72612fc9d3b35e56",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "ALCI ACOSTA  NJ",
-        "$id": "1300237789229",
-        "description": "Este Viernes 28 de marzo, 2025.",
-        "$link": "https://www.eventbrite.com/e/alci-acosta-nj-tickets-1300237789229",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F991832963%2F2173328878303%2F1%2Foriginal.20250325-025714?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.005&fp-y=0.005&s=7ae93980288e2b002480fd5f06491c0b",
+        "title": "FIESTA ROSADA  | NEW YORK",
+        "$id": "1320653533269",
+        "description": "Este Viernes 18 de abril, 2025.",
+        "$link": "https://www.eventbrite.com/e/fiesta-rosada-new-york-tickets-1320653533269",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1006367383%2F2173328878303%2F1%2Foriginal.20250410-234231?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=f79c949b103296ab5877d4a3dec36de3",
         "price": 0,
         "categories": []
     },
     {
         "title": "NOCHE LATINA | NEW YORK",
-        "$id": "1299595096919",
-        "description": "Este S\u00e1bado 29 de marzo, 2025.",
-        "$link": "https://www.eventbrite.com/e/noche-latina-new-york-tickets-1299595096919",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F991300523%2F2173328878303%2F1%2Foriginal.20250324-163948?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-67&fp-y=5e-67&s=48f0ca45d161f317fb20e041b9e74108",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "ALCI ACOSTA  NY",
-        "$id": "1270838986619",
-        "description": "Este S\u00e1bado 29 de marzo, 2025.",
-        "$link": "https://www.eventbrite.com/e/alci-acosta-ny-tickets-1270838986619",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F976154453%2F2173328878303%2F1%2Foriginal.20250305-183518?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a352e23d08e8f53385538574271f572b",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "NOCHE LATINA | NEW YORK",
-        "$id": "1303150992699",
-        "description": "Este S\u00e1bado 05 de abril, 2025.",
-        "$link": "https://www.eventbrite.com/e/noche-latina-new-york-tickets-1303150992699",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F994276543%2F2173328878303%2F1%2Foriginal.20250327-160043?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-69&fp-y=5e-69&s=f8cbaf489a6fb6151ab2738d96d8aa7a",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "I LOVE THE  90'S  DJ  ! EN QUEENS NY",
-        "$id": "1271478399119",
-        "description": "Este S\u00e1bado 05 de abril, 2025.",
-        "$link": "https://www.eventbrite.com/e/i-love-the-90s-dj-en-queens-ny-tickets-1271478399119",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F976453783%2F2173328878303%2F1%2Foriginal.20250305-230202?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-19&fp-y=5e-19&s=c3e86aa145b7cbc78654d89654eeab6c",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "LOS PRISIONEROS ! EN QUEENS NY",
-        "$id": "1115940300479",
-        "description": "Este Viernes 11 de abril, 2025.",
-        "$link": "https://www.eventbrite.com/e/los-prisioneros-en-queens-ny-tickets-1115940300479",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F967372733%2F2173328878303%2F1%2Foriginal.20250223-200339?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-15&fp-y=5e-15&s=102e6a887c1e305a563cb72ec0c9f935",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "LOS PRISIONEROS POR PRIMERA VEZ EN EAST HEAVEN CONNECTICUT!!",
-        "$id": "1257610780699",
-        "description": "Este S\u00e1bado 12 de abril, 2025.",
-        "$link": "https://www.eventbrite.com/e/los-prisioneros-por-primera-vez-en-east-heaven-connecticut-tickets-1257610780699",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F967399603%2F2173328878303%2F1%2Foriginal.20250223-210127?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-13&fp-y=5e-13&s=ba33d9e0cf4b520bdaa1597104e2d0a8",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "LOS PRISIONEROS !BRENTWOOD, NY!",
-        "$id": "1125823521459",
-        "description": "Este S\u00e1bado 12 de abril, 2025.",
-        "$link": "https://www.eventbrite.com/e/los-prisioneros-brentwood-ny-tickets-1125823521459",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F967380103%2F2173328878303%2F1%2Foriginal.20250223-201922?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-11&fp-y=5e-11&s=3ab91d14452a6a567494e496a920e45d",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "LOS DIABLITOS DEL VALLENATO ! QUEENS NY",
-        "$id": "1292733262989",
+        "$id": "1321813201869",
         "description": "Este S\u00e1bado 19 de abril, 2025.",
-        "$link": "https://www.eventbrite.com/e/los-diablitos-del-vallenato-queens-ny-tickets-1292733262989",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F987571733%2F2173328878303%2F1%2Foriginal.20250319-143324?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=4.54545454545e-05&fp-y=4.46096654275e-05&s=9fd54289635f73f8dbc8f87201c4ccb5",
+        "$link": "https://www.eventbrite.com/e/noche-latina-new-york-tickets-1321813201869",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1007174693%2F2173328878303%2F1%2Foriginal.20250411-224554?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-71&fp-y=5e-71&s=10b084c12eb4c27c0fe25b28a24da235",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "LOS CUATES DE SINALOA NY",
+        "$id": "1321363035409",
+        "description": "Este S\u00e1bado 19 de abril, 2025.",
+        "$link": "https://www.eventbrite.com/e/los-cuates-de-sinaloa-ny-tickets-1321363035409",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1006871993%2F2173328878303%2F1%2Foriginal.20250411-162713?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=4.17518188774e-05&fp-y=6.91309828703e-06&s=5a1bf22329183f8fc1fff38855e2d7ed",
         "price": 0,
         "categories": []
     },
@@ -113,6 +41,51 @@
         "description": "Este Viernes 25 de abril, 2025.",
         "$link": "https://www.eventbrite.com/e/queens-360-new-york-tickets-1301163257329",
         "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F992332343%2F280240115497%2F1%2Foriginal.20250325-164203?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.005&fp-y=0.005&s=8d835c16ddec37a0ab01371e7aadcca8",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "BIRTHDAY DASH ! NEW YORK",
+        "$id": "1304944136039",
+        "description": "Este Viernes 25 de abril, 2025.",
+        "$link": "https://www.eventbrite.com/e/birthday-dash-new-york-tickets-1304944136039",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1006381193%2F2173328878303%2F1%2Foriginal.20250411-000725?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8d2426684218d83d03e69a74fa937f9f",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "YATCH CRUISE PARTY NY",
+        "$id": "1304934246459",
+        "description": "Este S\u00e1bado 26 de abril, 2025.",
+        "$link": "https://www.eventbrite.com/e/yatch-cruise-party-ny-tickets-1304934246459",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F995556563%2F2173328878303%2F1%2Foriginal.20250329-031935?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.005&fp-y=0.005&s=141a171a5134f50b442573273fae0a2c",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "LOS ADOLESCENTES  NY",
+        "$id": "1308205290239",
+        "description": "Este S\u00e1bado 26 de abril, 2025.",
+        "$link": "https://www.eventbrite.com/e/los-adolescentes-ny-tickets-1308205290239",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1009921323%2F2173328878303%2F1%2Foriginal.20250416-000953?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-05&fp-y=5e-05&s=7f3b6d87649536fe33580e987e3b60c4",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "CONCURSO NACIONAL DEL CANTO ! NEW YORK",
+        "$id": "1321908165909",
+        "description": "Este Lunes 28 de abril, 2025.",
+        "$link": "https://www.eventbrite.com/e/concurso-nacional-del-canto-new-york-tickets-1321908165909",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1007195523%2F2173328878303%2F1%2Foriginal.20250411-233042?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=755fefba2b023de40b33eb89db78137a",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "GRAN CELEBRACION CINCO DE MAYO NY",
+        "$id": "1320522962729",
+        "description": "Este Domingo 04 de mayo, 2025.",
+        "$link": "https://www.eventbrite.com/e/gran-celebracion-cinco-de-mayo-ny-tickets-1320522962729",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1006276993%2F2173328878303%2F1%2Foriginal.20250410-212753?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=4.17518188774e-05&fp-y=6.91309828703e-06&s=b639519f34c4804de2efd217ed9a091c",
         "price": 0,
         "categories": []
     },
