@@ -1,37 +1,10 @@
 [
     {
-        "title": "SEMANA SANTA FANESCA ! NEW YORK",
-        "$id": "1323618682109",
-        "description": "HOY! Mi\u00e9rcoles 16 de abril, 2025",
-        "$link": "https://www.eventbrite.com/e/semana-santa-fanesca-new-york-tickets-1323618682109",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1010548643%2F2173328878303%2F1%2Foriginal.20250416-173238?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-11&fp-y=5e-11&s=5681e324c788ecee2fd3e89c7194b4f1",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "FIESTA ROSADA  | NEW YORK",
-        "$id": "1320653533269",
-        "description": "Este Viernes 18 de abril, 2025.",
-        "$link": "https://www.eventbrite.com/e/fiesta-rosada-new-york-tickets-1320653533269",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1006367383%2F2173328878303%2F1%2Foriginal.20250410-234231?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=f79c949b103296ab5877d4a3dec36de3",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "NOCHE LATINA | NEW YORK",
-        "$id": "1321813201869",
-        "description": "Este S\u00e1bado 19 de abril, 2025.",
-        "$link": "https://www.eventbrite.com/e/noche-latina-new-york-tickets-1321813201869",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1007174693%2F2173328878303%2F1%2Foriginal.20250411-224554?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-71&fp-y=5e-71&s=10b084c12eb4c27c0fe25b28a24da235",
-        "price": 0,
-        "categories": []
-    },
-    {
-        "title": "LOS CUATES DE SINALOA NY",
-        "$id": "1321363035409",
-        "description": "Este S\u00e1bado 19 de abril, 2025.",
-        "$link": "https://www.eventbrite.com/e/los-cuates-de-sinaloa-ny-tickets-1321363035409",
-        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1006871993%2F2173328878303%2F1%2Foriginal.20250411-162713?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=4.17518188774e-05&fp-y=6.91309828703e-06&s=5a1bf22329183f8fc1fff38855e2d7ed",
+        "title": "FESTIVAL DE ARROCES ! NEW YORK",
+        "$id": "1333534951939",
+        "description": "Este Viernes 25 de abril, 2025.",
+        "$link": "https://www.eventbrite.com/e/festival-de-arroces-new-york-tickets-1333534951939",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1013706333%2F2173328878303%2F1%2Foriginal.20250422-020859?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-11&fp-y=5e-11&s=076374334a51cc87366846574a423aeb",
         "price": 0,
         "categories": []
     },
@@ -63,6 +36,15 @@
         "categories": []
     },
     {
+        "title": "NOCHE LATINA | NEW YORK",
+        "$id": "1333547860549",
+        "description": "Este S\u00e1bado 26 de abril, 2025.",
+        "$link": "https://www.eventbrite.com/e/noche-latina-new-york-tickets-1333547860549",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1013716393%2F2173328878303%2F1%2Foriginal.20250422-023430?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-73&fp-y=5e-73&s=717d0d256034e85297b2ca0a6f6ae64d",
+        "price": 0,
+        "categories": []
+    },
+    {
         "title": "LOS ADOLESCENTES  NY",
         "$id": "1308205290239",
         "description": "Este S\u00e1bado 26 de abril, 2025.",
@@ -81,6 +63,15 @@
         "categories": []
     },
     {
+        "title": "TRIBUTO A MANA NY",
+        "$id": "1332646986009",
+        "description": "Este S\u00e1bado 03 de mayo, 2025.",
+        "$link": "https://www.eventbrite.com/e/tributo-a-mana-ny-tickets-1332646986009",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1012974543%2F2173328878303%2F1%2Foriginal.20250421-015135?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=4.17518188774e-07&fp-y=6.91309828703e-08&s=c7964e42c6326a7622878e35c63bbc89",
+        "price": 0,
+        "categories": []
+    },
+    {
         "title": "GRAN CELEBRACION CINCO DE MAYO NY",
         "$id": "1320522962729",
         "description": "Este Domingo 04 de mayo, 2025.",
@@ -95,6 +86,15 @@
         "description": "Este S\u00e1bado 10 de mayo, 2025.",
         "$link": "https://www.eventbrite.com/e/hansel-camacho-en-queens-ny-tickets-1280339061599",
         "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F981422213%2F2173328878303%2F1%2Foriginal.20250312-005951?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=d0710e13a4ce16bed18c3874e7bca60e",
+        "price": 0,
+        "categories": []
+    },
+    {
+        "title": "Cuando los Acordeones Lloran  Brentwood NY",
+        "$id": "1333453237529",
+        "description": "Este Viernes 30 de mayo, 2025.",
+        "$link": "https://www.eventbrite.com/e/cuando-los-acordeones-lloran-brentwood-ny-tickets-1333453237529",
+        "$image_link": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1013629423%2F2173328878303%2F1%2Foriginal.20250421-234735?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-13&fp-y=5e-13&s=a7e65ecce7372ce1a03cec0c05b6d04f",
         "price": 0,
         "categories": []
     }
